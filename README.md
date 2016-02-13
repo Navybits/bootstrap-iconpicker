@@ -4,7 +4,7 @@ ___
 ### Dependencies
   - jquery
   - twbs:bootstrap
-  
+
 ### Installation
 ```sh
 meteor add navybits:bootstrap-icon-picker
@@ -29,7 +29,7 @@ Template.myIconPickerTemplate.events({
 ```
 
 ### Version
-0.0.1
+1.0.0
 
 ### License
 

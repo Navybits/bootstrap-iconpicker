@@ -2,7 +2,7 @@ Package.describe({
   name: 'navybits:bootstrap-iconpicker',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'Very simple wrapper on bootstrap-iconpicker witch supports fontawsome icons picker',
+  summary: 'Very simple wrapper on bootstrap-iconpicker that supports fontawsome icons picker',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/Navybits/bootstrap-iconpicker',
   // By default, Meteor will default to using README.md for documentation.
