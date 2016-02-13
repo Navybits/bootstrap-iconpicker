@@ -4,7 +4,8 @@ ___
 ### Dependencies
   - jquery
   - twbs:bootstrap
-### Installation:
+  
+### Installation
 ```sh
 meteor add navybits:bootstrap-icon-picker
 ```
