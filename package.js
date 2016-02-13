@@ -1,6 +1,6 @@
 Package.describe({
   name: 'navybits:bootstrap-iconpicker',
-  version: '0.0.1',
+  version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Very simple wrapper on bootstrap-iconpicker witch supports fontawsome icons picker',
   // URL to the Git repository containing the source code for this package.
