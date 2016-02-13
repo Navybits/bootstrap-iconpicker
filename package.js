@@ -12,7 +12,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
-  api.use(['jquery', 'twbs:bootstrap'], 'client');
+  api.use(['jquery', 'twbs:bootstrap@3.3.6'], 'client');
   api.addFiles('iconset-fontawesome-4.2.0.min.js', 'client');
   api.addFiles('bootstrap-iconpicker.min.js', 'client');
   api.addFiles('bootstrap-iconpicker.min.css', 'client');
