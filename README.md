@@ -1,13 +1,13 @@
-# navybits:bootstrap-icon-picker
+# navybits:bootstrap-iconpicker
 ___
-*navybits:bootstrap-icon-picker* is a simple wrapper on [bootstrap-iconpicker](http://victor-valencia.github.io/bootstrap-iconpicker/) that supports fontawsome icons picker packaged for Meteor Usage.
+*navybits:bootstrap-iconpicker* is a simple wrapper on [bootstrap-iconpicker](http://victor-valencia.github.io/bootstrap-iconpicker/) that supports fontawsome icons picker packaged for Meteor Usage.
 ### Dependencies
   - jquery
   - twbs:bootstrap
 
 ### Installation
 ```sh
-meteor add navybits:bootstrap-icon-picker
+meteor add navybits:bootstrap-iconpicker
 ```
 ### Use
 1. Inside your template, for example *myIconPickerTemplate.html* :
